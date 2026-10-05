@@ -39,3 +39,5 @@ return (
 - Nutze in den geschweifen Klammern direkt `unfaelle.map()` um die `<li>`Elemente zu erzeugen. Achtung: Verwende hier im "HTML Teil" keine Variablenzuweisung (z.B. `const liste = unfaelle.map()` ) denn das wäre eine Anweisung / Statement und ist nicht erlaubt.
 - Schreibe als innere Funktion in map(): `unfall => (<li>unfall.id_unfall</li>)` und überprüfe das Ergebnis
 - Werden die ids angezeigt? Was fehlt? Versuche den Fehler zu beheben.
+
+Was soll fehlen??
